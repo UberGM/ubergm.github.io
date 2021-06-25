@@ -1,0 +1,32 @@
+html, body {
+  // CSS margin/padding reset
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background-color: #b2b2b2;
+}
+
+.site-header {
+  background-color: #e6e6e6;
+  text-align: center;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.32);
+}
+
+.site-footer {
+  background-color: #DDDDDD;
+  text-align: center;
+}
+
+.post {
+  > .wrapper {
+    padding: 20px;
+  }
+  margin: 50px;
+  background-color: #DDDDDD;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.32);
+  border-radius: 5px;
+  border: 1px solid #DDDDDD;
+}

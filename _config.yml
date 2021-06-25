@@ -1,0 +1,11 @@
+title: "Dark"
+description: none
+baseurl: ""
+url: "googre.ml"
+
+email: email@email.com
+twitter_username: tweeter
+github_username: gethub
+
+markdown: kramdown
+includeFooter: true
