@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Markdown Demo
 permalink: /markdown-demo/
 ---
