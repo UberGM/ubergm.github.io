@@ -1,6 +1,3 @@
----
-title: Markdown Demo
----
 An h1 header
 ============
 
