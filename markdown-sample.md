@@ -1,6 +1,5 @@
 ---
 title: Markdown Demo
-permalink: /markdown-demo/
 ---
 An h1 header
 ============
