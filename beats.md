@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beats
+title: beats
 permalink: /beats/
 ---
 Here you will find my latest beats. Updated monthly

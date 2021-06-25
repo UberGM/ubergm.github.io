@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Videos
+title: videos
 permalink: /videos/
 ---
 random videos
