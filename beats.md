@@ -1,6 +1,6 @@
 ---
 layout: page
-title: beats
-permalink: /beats/
+title: music
+permalink: /music/
 ---
 Here you will find my latest beats. Updated monthly
