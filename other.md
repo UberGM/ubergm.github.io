@@ -6,4 +6,5 @@ permalink: /other/
 random stuff i made or did
 
 ![animation test](/art/test.gif)
+
 stupid animation I made
